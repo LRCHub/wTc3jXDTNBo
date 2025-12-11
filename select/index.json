@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "RADWIMPS - 正解 [Official Music Video]",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2025-12-11T16:17:03.905895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RADWIMPS - Suzume feat. Toaka [Official Lyric Video]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_RADWIMPS_-_Suzume_feat._Toaka_[Official_Lyric_Video]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RADWIMPS - 愛にできることはまだあるかい [Official Music Video]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_RADWIMPS_-_愛にできることはまだあるかい_[Official_Music_Video]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RADWIMPS - KANATAHALUKA [Official Music Video]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_RADWIMPS_-_KANATAHALUKA_[Official_Music_Video]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RADWIMPS",
+      "artist": "Hyperventilation",
+      "has_synced": true,
+      "path": "select/04_RADWIMPS_Hyperventilation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RADWIMPS - Gogatsu No Hae [Official Music Video]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_RADWIMPS_-_Gogatsu_No_Hae_[Official_Music_Video]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RADWIMPS - \"Suzume\" ft. Toaka (from Suzume no Tojimari) | Full English Cover by IN0RI",
+      "artist": "IN0RI",
+      "has_synced": true,
+      "path": "select/06_RADWIMPS_-__Suzume__ft._Toaka_(from_Suzume_no_Tojimari)___Full_English_Cover_by__IN0RI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sparkle (movie ver.) (Originally Performed by RADWIMPS from \"Your Name.\") -Orgel-",
+      "artist": "MIDORI ORGEL",
+      "has_synced": false,
+      "path": "select/07_Sparkle_(movie_ver.)_(Originally_Performed_by_RADWIMPS_from__Your_Name._)_-Orgel_MIDORI_ORGEL.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "RADWIMPS Feat. Taka / IKIJIBIKI",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_RADWIMPS_Feat._Taka___IKIJIBIKI_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "RADWIMPS Feat. Miyachi, Tabu Zombie / TIE TONGUE",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/09_RADWIMPS_Feat._Miyachi,_Tabu_Zombie___TIE_TONGUE_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "正解",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_正解_RADWIMPS.txt"
+    }
+  ]
+}
