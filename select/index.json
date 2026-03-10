@@ -1,80 +1,64 @@
 {
   "version": 1,
-  "base_track": "RADWIMPS - 正解 [Official Music Video]",
-  "base_artist": "RADWIMPS",
-  "createdAt": "2025-12-11T16:18:06.486151Z",
+  "base_track": "正解 - Seikai",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-03-10T04:46:29.650345Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "RADWIMPS - Suzume feat. Toaka [Official Lyric Video]",
+      "title": "正解",
       "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/01_RADWIMPS_-_Suzume_feat._Toaka_[Official_Lyric_Video]_RADWIMPS.lrc"
+      "path": "select/01_正解_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "RADWIMPS - 愛にできることはまだあるかい [Official Music Video]",
+      "title": "正解 (18FES ver.) - Seikai (18Fes Version)",
       "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/02_RADWIMPS_-_愛にできることはまだあるかい_[Official_Music_Video]_RADWIMPS.lrc"
+      "path": "select/02_正解_(18FES_ver.)_-_Seikai_(18Fes_Version)_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "RADWIMPS - KANATAHALUKA [Official Music Video]",
-      "artist": "RADWIMPS",
-      "has_synced": true,
-      "path": "select/03_RADWIMPS_-_KANATAHALUKA_[Official_Music_Video]_RADWIMPS.lrc"
+      "title": "正解 - Seikai",
+      "artist": "Radwimps",
+      "has_synced": false,
+      "path": "select/03_正解_-_Seikai_Radwimps.txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "RADWIMPS",
-      "artist": "Hyperventilation",
+      "title": "正解 (混声三部合唱) - Seikai (Mixed 3-Part Chorus)",
+      "artist": "Radwimps",
       "has_synced": true,
-      "path": "select/04_RADWIMPS_Hyperventilation.lrc"
+      "path": "select/04_正解_(混声三部合唱)_-_Seikai_(Mixed_3-Part_Chorus)_Radwimps.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "RADWIMPS - Gogatsu No Hae [Official Music Video]",
+      "title": "正解 - 18FES ver.",
       "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/05_RADWIMPS_-_Gogatsu_No_Hae_[Official_Music_Video]_RADWIMPS.lrc"
+      "path": "select/05_正解_-_18FES_ver._RADWIMPS.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "RADWIMPS - \"Suzume\" ft. Toaka (from Suzume no Tojimari) | Full English Cover by IN0RI",
-      "artist": "IN0RI",
+      "title": "正解 (混声三部合唱)",
+      "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/06_RADWIMPS_-__Suzume__ft._Toaka_(from_Suzume_no_Tojimari)___Full_English_Cover_by__IN0RI.lrc"
+      "path": "select/06_正解_(混声三部合唱)_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Sparkle (movie ver.) (Originally Performed by RADWIMPS from \"Your Name.\") -Orgel-",
-      "artist": "MIDORI ORGEL",
-      "has_synced": false,
-      "path": "select/07_Sparkle_(movie_ver.)_(Originally_Performed_by_RADWIMPS_from__Your_Name._)_-Orgel_MIDORI_ORGEL.txt"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "RADWIMPS Feat. Taka / IKIJIBIKI",
-      "artist": "RADWIMPS",
+      "title": "正解 脱出用音声",
+      "artist": "CKD's",
       "has_synced": true,
-      "path": "select/08_RADWIMPS_Feat._Taka___IKIJIBIKI_RADWIMPS.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "RADWIMPS Feat. Miyachi, Tabu Zombie / TIE TONGUE",
-      "artist": "RADWIMPS",
-      "has_synced": true,
-      "path": "select/09_RADWIMPS_Feat._Miyachi,_Tabu_Zombie___TIE_TONGUE_RADWIMPS.lrc"
+      "path": "select/07_正解_脱出用音声_CKD's.lrc"
     },
     {
       "id": "petitlyrics_1",
